@@ -1,5 +1,5 @@
 # Charles_Proxy
-## Charles HW Traffic capture
+## Charles HW Traffic capture [HW_Charles](<https://github.com/VladimirTz/Charles_Proxy/blob/main/HW_Charles%20Settings.chls>)
 ### Ex_0: Сфокусироваться на ниже перечисленных запросах
 Protocol: http
 IP: 162.55.220.72
